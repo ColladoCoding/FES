@@ -21,7 +21,7 @@ nav {
 header {
     background-color: #cadcff;
     height: calc(100vh - 7px);
-    padding: 24pxdf;
+    padding: 24px;
     align-items: center;
     justify-content: center;
 }
